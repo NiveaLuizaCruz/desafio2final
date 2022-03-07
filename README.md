@@ -6,7 +6,7 @@ Desafio de Programação 2 - Nívea Luiza Cruz
 **FEITO EM LINGUAGEM C**
 
 
-Questão 1 (*****ARQUIVO questao_1.cbp*****)- Pede pelo teclado a número de elementos do vetor e verifica se é ímpar ou par. 
+Questão 1 (*****ARQUIVO main.c*****)- Pede pelo teclado a número de elementos do vetor e verifica se é ímpar ou par. 
       CASO PAR-> Encerra programa. 
       CASO ÍMPAR-> Pede os valores dos elementos e ordena em ordem crescente usando FOR. 
                    A mediana é dada por ponteiros. Ao dividir o número total de elementos por 2 teremos com o operador / teremos o resultado inteiro (Exemplo: 7/2 = 3). 
